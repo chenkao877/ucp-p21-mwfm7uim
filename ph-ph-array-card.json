@@ -1,0 +1,1 @@
+{"ucp":{"version":"2026-08-25","agent":{"name":"Agent","type":"agent"},"services":{"dev.ucp.shopping":{"version":"2026-08-25"}},"payment_handlers":["card"]}}
